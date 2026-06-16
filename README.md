@@ -63,7 +63,7 @@ Spectator uses a secure, decoupled three-layer system to operate inside Google C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/spectator.git
+   git clone https://github.com/r4huL-cyber/spectator.git
    cd spectator
    ```
 
