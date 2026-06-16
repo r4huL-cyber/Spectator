@@ -98,26 +98,6 @@ To run Spectator in your browser using the local build:
 
 ---
 
-## Collaboration
-
-Collaborating on this repository? Here is how to keep development in sync:
-1. Fetch updates before writing code:
-   ```bash
-   git pull origin main
-   ```
-2. Create feature branches for your changes:
-   ```bash
-   git checkout -b feature/your-new-feature
-   ```
-3. Commit and push:
-   ```bash
-   git add .
-   git commit -m "Add feature details"
-   git push origin feature/your-new-feature
-   ```
-4. Create a Pull Request (PR) on GitHub for review.
-
----
 
 ## License
 
